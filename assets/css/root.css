@@ -1,0 +1,9 @@
+:root {
+
+    --light-pink : rgb(218, 190, 221);
+    --dark-pink : rgb(221, 156, 228);
+    --light-purple : rgb(173, 137, 233);
+    --purple : rgb(134, 82, 219);
+    --dark-purple : rgb(58, 17, 125);
+    --white : #f6f4f8;
+}

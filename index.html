@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Boîte de réception</title>
+
+    <link rel="shortcut icon" href="assets/img/Enveloppe-close.svg" type="image/svg">
+    <link rel="stylesheet" href="assets/css/root.css">
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+
+<body>
+    <div id="enveloppes">
+        <img id="enveloppe-close" src="assets/img/Enveloppe-close.svg" alt="">
+        <div id="notif">1</div>
+        <img id="enveloppe-open" class="invisible hidden" src="assets/img/Enveloppe-open.svg" alt="">
+    </div>
+    <audio id="sync">
+        <source src="assets/sound/synchronize.mp3" type="audio/mp3">
+    </audio>
+    <div id="letter" class="hideLetter"></div>
+    <div id="p1">
+        <span>
+            <span id="reader">Lucca,</span>&nbsp;<img src="assets/img/Heart.png" class="hearts">
+            <br/>&nbsp;&nbsp;&nbsp;&nbsp;Mon amour, mon cœur, ma moitié <img src="assets/img/Heart.png" class="heart l-rotation"> Tu es celui dont j'ai toujours rêvé.<br/><br/>&nbsp;&nbsp;&nbsp;&nbsp; Si j'avais su que me prendre un pot d'échappement dans le front me menerai à mon soulmuffler, je referais.<br/>100%.<img src="assets/img/Heart.png" class="heart r-rotation">
+            <br/><br/>&nbsp;&nbsp;&nbsp;&nbsp;<span>Non, je n'ai pas codé cette potite page ni commencé cette lettre dans le simple but de parler pot d'échappement. Je voulais surtout t'inviter.</span>
+            <br/><br/>&nbsp;&nbsp;&nbsp;&nbsp;<span>Accetpes-tu de venir regarder les étoiles, sur la plage des étangs d'Apigné, pas loin de Rennrs, avec moi ? <img src="assets/img/Heart.png" class="heart r-rotation"></span>
+            <br/><br/><span id="author"><img src="assets/img/Heart.png" class="hearts l-rotation">&nbsp;Amélie</span>
+        </span>
+    </div>
+</body>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.12/typed.min.js"
+    integrity="sha512-3J8teBiHrSyaaRBajZyIEtpDsXdPq1gsznKWIVb5CnorQuFhjWGhWe54z8YNnHHr7MZuExb9m5kvf964HiT1Sw=="
+    crossorigin="anonymous" referrerpolicy="no-referrer" defer></script>
+<script src="assets/js/index.js" defer></script>
+
+</html>

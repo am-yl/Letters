@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 512 452.212" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<radialGradient cx="949.854" cy="501.971" gradientTransform="matrix(4.57853 0.0335347 -0.0335347 4.57853 -4076.8 -2103.24)" gradientUnits="userSpaceOnUse" id="RadialGradient" r="53.3743">
+<stop offset="0" stop-color="#dabedd"/>
+<stop offset="1" stop-color="#dd9ce4"/>
+</radialGradient>
+</defs>
+<g id="Calque-1" vectornator:layerName="Calque 1">
+<path d="M264.227 443.905C295.817 442.896 481.318 275.329 498.931 151.927C518.542 14.5253 334.189-35.996 264.413 111.681C214.291-35.4171-4.37248-26.1522 12.5485 150.358C24.2774 272.707 208.034 445.699 264.227 443.905Z" fill="url(#RadialGradient)" fill-rule="nonzero" opacity="1" stroke="none"/>
+</g>
+</svg>
